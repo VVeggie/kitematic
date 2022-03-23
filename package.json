@@ -47,7 +47,7 @@
     "install": "0.1.8",
     "jquery": "^3.5.0",
     "mixpanel": "kitematic/mixpanel-node",
-    "mkdirp": "0.5.1",
+    "mkdirp": "0.5.2",
     "node-uuid": "1.4.8",
     "numeral": "1.5.6",
     "object-assign": "4.1.1",
